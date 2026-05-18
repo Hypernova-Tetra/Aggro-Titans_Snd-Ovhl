@@ -14,6 +14,10 @@ add Main/raw/event/scene/zev_knight_shieldride01_short.pac
 add Main/raw/event/scene/zev_knight_shieldride02.pac
 add Main/raw/event/scene/zev_knight_shieldride02_aerial.pac
 add Main/raw/event/scene/zev_knight_sonic_damageXX.pac
+add Main/raw/event/scene/zev_rfl_wing.pac
+add Main/raw/event/scene/zev_rfl_wing.pac
+add Main/raw/event/scene/zev_rfl_wng1.pac
+add Main/raw/event/scene/zev_rfl_wng2.pac
 
 add Main/raw/movie/bo1120.usm
 add Main/raw/movie/bo1121.usm
