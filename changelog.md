@@ -1,8 +1,14 @@
-# **Aggro-Titans Add-on Sound Ovhl** - 2026.05.17
+# **Aggro-Titans Add-on Sound Ovhl** - 2026.08.09
 
 
 
-#### **1.00 -** Downloadable for use
+#### **1.01 -** Small update
+
+* Updated files from Aggro Titans v1.44
+
+
+
+1.00
 
 * Available for Download.
 
