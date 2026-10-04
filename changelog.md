@@ -1,14 +1,26 @@
-# **Aggro-Titans Add-on Sound Ovhl** - 2026.08.09
+# **Aggro-Titans Add-on Sound Ovhl** - 2026.10.04
 
 
 
-#### **1.01 -** Small update
+#### **1.03 - Knight's Phase 2**
+
+* Updated Knight Phase 2 scene.
+
+
+
+**1.02 Wyvern's Missiles**
+
+* Updated Wyvern's missile QTE to fix a visual issue with the Chaos Emeralds that were added in to the scene.
+
+
+
+**1.01 Small Update**
 
 * Updated files from Aggro Titans v1.44
 
 
 
-1.00
+**1.00**
 
 * Available for Download.
 
